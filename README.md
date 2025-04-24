@@ -1,4 +1,4 @@
-# 🤖 (KMTS) Kikipatsu, Maki, Tori and Stronger AI – Multi-Agent System (LangChain + OpenAI)
+# 🤖 (KMTS) Kikipatsu, Maki, Tori and Stronger AI – Multi-Agent System (LangChain + OpenAI + Together AI)
 
 This project demonstrates a modular **multi-agent AI system** built using [LangChain](https://www.langchain.com/), OpenAI's GPT models, and Together AI. It showcases how agents can collaborate toward a shared goal by simulating the behavior of a Planner, a Coder, and a Critic — just like a real-world development team.
 
