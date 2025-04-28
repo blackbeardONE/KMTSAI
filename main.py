@@ -187,13 +187,13 @@ def initialize_llm(mode="general_chat"):
                     # Return to previous menu
                     print("Returning to previous menu...")
                     if mode == "general_chat":
-                        return select_test_llm_option(), None
+                        return select_test_llm_option(), None, None
                     elif mode == "audio_generation":
-                        return select_test_llm_option(), None
+                        return select_test_llm_option(), None, None
                     elif mode == "image_generation":
-                        return select_test_llm_option(), None
+                        return select_test_llm_option(), None, None
                     else:
-                        return select_mode(), None
+                        return select_mode(), None, None
                 elif filter_choice == "5":
                     # Return to main menu
                     print("Returning to main menu...")
