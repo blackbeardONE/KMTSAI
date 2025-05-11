@@ -3,3 +3,4 @@ httpx>=0.23.0
 langchain-openai
 langchain-together
 langchain-community
+tabulate
